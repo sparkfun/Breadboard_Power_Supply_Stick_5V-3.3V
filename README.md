@@ -1,5 +1,4 @@
 Breadboard Power Supply Stick 5V/3.3V
-
 ======================
 
 [![Breadboard Power Supply Stick 5V/3.3V](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/8/0/4/10804-01_i_ma.jpg)  
@@ -14,6 +13,6 @@ Repository Contents
 
 License Information
 -------------------
+The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
-All contents of this repository are released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
-
+Distributed as-is; no warranty is given.
